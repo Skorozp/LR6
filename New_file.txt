@@ -2,3 +2,5 @@
 новый
 файлик
 изменение из master
+conflict-branch
+
