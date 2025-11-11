@@ -4,3 +4,4 @@
 изменение из master
 conflict-branch
 
+Третье изменение
