@@ -65,3 +65,8 @@ c08a654 - 2020-11-21 - Kurtyanik - Файл создан пустым
 3c6e913 - 2020-11-21 - Kurtyanik - Initial commit
 ```
 
+![[1.png]]![[2.png]]
+![[3.png]]
+![[4.png]]
+![[5.png]]
+![[6.png]]
